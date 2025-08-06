@@ -21,7 +21,7 @@ export default function Home() {
         <Container sx={{paddingTop:2}} component="main" maxWidth="xs">
 
           <Typography variant="h3">
-            About us
+            About Our App
           </Typography>
           <Typography variant="p">
             We really like space so we created an application thats about space

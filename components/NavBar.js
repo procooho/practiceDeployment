@@ -14,7 +14,7 @@ export default function NavBar(props) {
       </Link>
       <Link href={"/about"}>
       <Typography variant="h6" component="div" sx={{cursor:"pointer"}}>
-        About
+        About Our App
       </Typography>
       </Link>
     </Toolbar>
