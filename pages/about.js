@@ -24,7 +24,7 @@ export default function Home() {
             About us
           </Typography>
           <Typography variant="p">
-            We really like space so we created an application that's about space
+            We really like space so we created an application thats about space
             agencies and their spacecrafts.
           </Typography>
         </Container>
