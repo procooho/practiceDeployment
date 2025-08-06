@@ -1,0 +1,21 @@
+{
+  "name": "Your App Name",
+  "short_name": "AppShortName",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/1.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/1.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
